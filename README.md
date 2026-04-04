@@ -1,8 +1,11 @@
 Dataset Description:
 
 Dataset Name: Sample Superstore Dataset
+
 Source: https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset
+
 Number of Rows: 9994
+
 Number of Columns: 13
 
 Features (Columns):
